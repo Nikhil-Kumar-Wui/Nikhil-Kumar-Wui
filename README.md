@@ -31,7 +31,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Kumar-Wui&theme=react&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_title=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Kumar-Wui&theme=react&hide_border=true" height="180px"/>
