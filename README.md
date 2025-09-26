@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F79D&center=true&vCenter=true&width=600&lines=++++training+models+at+the+moment++++" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F79D&center=true&vCenter=true&width=600&lines=++++Training+models+at+the+moment!+Wait...++++" alt="Typing Animation" />
 </p>
