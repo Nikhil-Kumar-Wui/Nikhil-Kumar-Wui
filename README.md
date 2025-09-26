@@ -1,4 +1,4 @@
-# About Me ^_^:
+# About Me ^_^
 > 🌟 Always curious | 🚀 Always learning | 💡 Always building  
 
 - 💻 I know **Python** and its ecosystem:  
