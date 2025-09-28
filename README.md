@@ -1,13 +1,13 @@
 # About Me ^_^
 > 🌟 Always curious | 🚀 Always learning | 💡 Always building  
 
-- 💻 I know **Python** and its ecosystem:  
-  > 🟦 `NumPy` | 🟪 `Pandas` | 🟧 `Matplotlib` | 🟩 `Seaborn` | 🌀 `SciPy` | 🟨 `Scikit-learn`  
+- 📊 Strong interest in **Data Science & Machine Learning** 
 - 🤖 Familiar with **Machine Learning fundamentals**:  
   > Linear Regression | Logistic Regression | Decision Tree | Random Forest | Training & Evaluation  
-- 📊 Strong interest in **Data Science** and problem-solving  
+- 💻 I know **Python** and its ecosystem:  
+  > 🟦 `NumPy` | 🟪 `Pandas` | 🟧 `Matplotlib` | 🟩 `Seaborn` | 🌀 `SciPy` | 🟨 `Scikit-learn`  
 - 🏆 Excited to participate in **hackathons** and tech events  
-- 🌱 Continuously exploring new technologies  
+- 🌱 Continuously exploring new technologies and problem-solving    
 
 ---
 
